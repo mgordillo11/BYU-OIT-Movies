@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application allows users to search for movies by title. It uses a Vue.js/Nuxt.js front-end (`webapp`) and a Node.js/Express back-end (`webservice`), with movie data provided by The Movie Database (TMDB) API.
+This application allows users to search for movies by title. It uses a Vue.js/Nuxt.js front-end (`webapp`) and a Bun.js with Node.js/Express back-end (`webservice`), with movie data provided by The Movie Database (TMDB) API.
 
 ## Features
 
