@@ -63,8 +63,7 @@ This application allows users to search for movies by title. It uses a Vue.js/Nu
    ```bash
    bun run dev
    ```
-4. The application will be running at `http://localhost:3000` (or the next available port if 8000 is in use).
-
+4. The application will be running at `http://localhost:3000`
 ## Future Enhancements
 
 - Implement pagination and or infinite scrolling for displaying search results
